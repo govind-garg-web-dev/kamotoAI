@@ -1,0 +1,2 @@
+# kamotoAI
+JUST A SAMPLE TYPE
