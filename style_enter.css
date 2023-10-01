@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+.hide{
+    background-color: #171825;
+    width: 100vw;
+    height: 60px;
+    z-index: 1;
+}
+
+.flex{
+    display: none;
+}

@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+    background-color: #171825;
+    margin-bottom: 0 !important;
+    border: 0 !important;
+}
+
+h1,h3,p{
+    padding: 23px;
+    color: white !important;
+}
